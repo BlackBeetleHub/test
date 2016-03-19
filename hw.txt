@@ -4,4 +4,5 @@ unsing namespace std;
 
 int main(){
 printf("aadad");
+return 0;
 }
